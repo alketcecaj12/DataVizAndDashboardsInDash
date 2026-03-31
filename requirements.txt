@@ -1,0 +1,9 @@
+plotly>=5.0
+dash>=2.0
+pandas
+numpy
+joypy
+d3blocks
+gradio
+requests
+jupyter
